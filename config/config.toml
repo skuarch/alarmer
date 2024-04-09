@@ -1,0 +1,10 @@
+[sound]
+blink = "/home/skuarch/Docker/volumes/python/alarmer/sounds/blink.mp3"
+day_end = "/home/skuarch/Docker/volumes/python/alarmer/sounds/day_end.mp3"
+check_email = "/home/skuarch/Docker/volumes/python/alarmer/sounds/check_email.mp3"
+
+
+[work]
+blink = 20 # mins
+day_end = 15 # 5pm
+check_email = 3 # every $? hours
